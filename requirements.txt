@@ -1,0 +1,10 @@
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+qiskit
+qiskit-machine-learning
+plotly>=5.0.0
