@@ -7,4 +7,5 @@ matplotlib
 seaborn
 qiskit
 qiskit-machine-learning
+qiskit-aer
 plotly>=5.0.0
