@@ -8,4 +8,5 @@ seaborn
 qiskit
 qiskit-machine-learning
 qiskit-aer
+geopy
 plotly>=5.0.0
